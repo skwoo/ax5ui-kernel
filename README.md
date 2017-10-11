@@ -12,7 +12,7 @@ In order to use the AX5UI, you need a basic knowledge of the "HTML, JS, CSS". Kn
 ### jQuery
 Faster development of the UI plug-in, in order to be more rational, we use the jQuery library.
 The role of the jQuery library in AX5UI is, the DOM Element "looking, erase, add to, to connect the events." It is used for.
-jQuery is, JS library that most of developers around the world are using (http://jquery.com/).
+jQuery is a JS library that most of developers around the world are using (http://jquery.com/).
 
 
 ###Bootstrap
@@ -164,7 +164,7 @@ ax5ui-kernel/
 |   |   ├── dist/
 |   |   ├── src/
 |   |   ├── test/
-│   |   ├── API...
+│   |   ├── API-ax5-xxx.md
 │   |   ├── bower.json
 │   |   ├── deploy.sh
 │   |   ├── package.json
